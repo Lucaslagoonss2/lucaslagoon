@@ -12,35 +12,70 @@
 
 <br>
 
-<img align="left" alt="coding-gif" width="320" src="https://i.imgur.com/JWYjc7H.gif" style="border-radius: 10px; margin-right: 20px;" />
 
-<h3 align="left">🛡️ About Me</h3>
+
+<!-- ABOUT ME -->
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
+</div>
+
+<h3 align="center">👤 About me</h3>
+
+<table align="center">
+<tr border="none">
+
+<td width="65%" valign="top">
+
+Hello There! I'm **Lucas Rodrigues**, a Cybersecurity student. I am dedicated to cyber defense, infrastructure, and automation. Currently, I'm working on security projects and simulating real-world scenarios in my homelab to enhance my Blue Team expertise.
+
+<br>
+
+🎓 **Studying Cybersecurity at UNIASSELVI (2025-2027)**
+<br>
+🚀 **Focused on traffic monitoring and vulnerability analysis**
+<br>
+🛠️ **Hands-on experience with MikroTik and ISP networks**
+<br>
+🧪 **Maintaining a Homelab for attack & defense simulations**
+<br>
+💬 **Proficient in Python for security scripting**
+
+<br>
+
+<h3 align="left">📬 Contact</h3>
 <p align="left">
-  🎓 Estudante de <b>Segurança Cibernética</b> na UNIASSELVI (2025-2027).<br>
-  🚀 Focado em monitoramento de tráfego e análise de vulnerabilidades.<br>
-  🛠️ Experiência prática com <b>MikroTik</b> e infraestrutura de redes ISP.<br>
-  🧪 Mantendo um <b>Homelab</b> para simulação de ataques e defesa.<br>
-  💬 Habilidades em <b>Python</b> para automação e scripts de segurança.
+  <a href="mailto:lucaslagoon15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-rodrigues1100">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://wa.me/557581144786">
+    <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
+  </a>
 </p>
 
-<h3 align="left">🧲 Drop me a line:</h3>
-<div align="left">
-  <a href="mailto:lucaslagoon15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"></a>
-  <a href="https://www.linkedin.com/in/lucas-rodrigues1100"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
-  <a href="https://wa.me/557581144786"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28"></a>
-</div>
+</td>
 
-<br clear="all">
-<br>
+<td width="35%" align="center">
+  <img src="https://i.imgur.com/JWYjc7H.gif" width="280"/>
+</td>
 
-<h3 align="center">📚 Languages & Tools I Work With</h3>
+</tr>
+</table>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kali,debian,linux,bash,py,github,vscode,mysql,wireshark" /><br>
-  <img src="https://skillicons.dev/icons?i=anaconda,cpp,c,html,css,git,notion,figma,ubuntu" />
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 </div>
 
-<br>
+<!-- LANGUAGES -->
+<h3 align="center">🧰 Languages & Tools I Work With</h3>
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kali,debian,linux,bash,py,github,vscode,ubuntu,git,html,css,mysql" />
+
+</div>
 <div align="center">
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
@@ -66,8 +101,8 @@
 
 <h3 align="center">📊 GitHub Status</h3>
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucas-rodrigues1100&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-rodrigues1100&layout=compact&theme=tokyonight&border_radius=10"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucaslagoon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslagoon&layout=compact&theme=tokyonight&border_radius=10"/>
 </div>
 
 <br>
