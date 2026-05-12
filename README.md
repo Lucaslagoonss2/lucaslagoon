@@ -15,51 +15,37 @@
 
 
 <!-- ABOUT ME -->
-<div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
-</div>
-
 <h3 align="center">👤 About me</h3>
 
-<table align="center">
-<tr border="none">
+<p align="left">
+  <img src="https://i.imgur.com/NXo0ceh.png" align="right" width="420" alt="Lain Hacking Clean"/>
+  Hello There! I'm <strong>Lucas Rodrigues</strong>, a <strong>Cybersecurity student</strong> dedicated to cyber defense, infrastructure, and automation.
+  <br><br>
+  Currently, I'm working on security projects and simulating real-world scenarios in my <strong>Homelab</strong> to enhance my <strong>Blue Team</strong> expertise.
+</p>
 
-<td width="65%" valign="top">
+<ul>
+  <li>🎓 Studying <strong>Cybersecurity at UNIASSELVI</strong> (2025-2027)</li>
+  <li>🚀 Focused on <strong>traffic monitoring</strong> and <strong>vulnerability analysis</strong></li>
+  <li>🛠️ Hands-on experience with <strong>MikroTik</strong> and <strong>ISP networks</strong></li>
+  <li>🧪 Maintaining a <strong>Homelab</strong> for attack & defense simulations</li>
+  <li>💬 Proficient in <strong>Python</strong> for security scripting</li>
+</ul>
 
-Hello There! I'm **Lucas Rodrigues**, a **Cybersecurity student** dedicated to cyber defense, infrastructure, and automation
-
-Currently, I'm working on security projects and simulating real-world scenarios in my **Homelab** to enhance my **Blue Team** expertise
-
-*   🎓 Studying **Cybersecurity at UNIASSELVI** (2025-2027)
-*   🚀 Focused on **traffic monitoring** and **vulnerability analysis**
-*   🛠️ Hands-on experience with **MikroTik** and **ISP networks**
-*   🧪 Maintaining a **Homelab** for attack & defense simulations
-*   💬 Proficient in **Python** for security scripting
-
-<br>
+<br clear="right">
 
 <h3 align="left">📬 Contact</h3>
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucasrodriguesr343@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/lucas-rodrigues1100">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://wa.me/557581144786">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/557581144786">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
-
-</td>
-
-<td width="35%" align="center">
-  <img src="https://i.imgur.com/JWYjc7H.gif" width="280"/>
-</td>
-
-</tr>
-</table>
-
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 </div>
