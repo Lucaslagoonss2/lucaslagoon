@@ -26,19 +26,15 @@
 
 <td width="65%" valign="top">
 
-Hello There! I'm **Lucas Rodrigues**, a Cybersecurity student. I am dedicated to cyber defense, infrastructure, and automation. Currently, I'm working on security projects and simulating real-world scenarios in my homelab to enhance my Blue Team expertise.
+Hello There! I'm **Lucas Rodrigues**, a **Cybersecurity student** dedicated to cyber defense, infrastructure, and automation
 
-<br>
+Currently, I'm working on security projects and simulating real-world scenarios in my **Homelab** to enhance my **Blue Team** expertise
 
-🎓 **Studying Cybersecurity at UNIASSELVI (2025-2027)**
-<br>
-🚀 **Focused on traffic monitoring and vulnerability analysis**
-<br>
-🛠️ **Hands-on experience with MikroTik and ISP networks**
-<br>
-🧪 **Maintaining a Homelab for attack & defense simulations**
-<br>
-💬 **Proficient in Python for security scripting**
+*   🎓 Studying **Cybersecurity at UNIASSELVI** (2025-2027)
+*   🚀 Focused on **traffic monitoring** and **vulnerability analysis**
+*   🛠️ Hands-on experience with **MikroTik** and **ISP networks**
+*   🧪 Maintaining a **Homelab** for attack & defense simulations
+*   💬 Proficient in **Python** for security scripting
 
 <br>
 
