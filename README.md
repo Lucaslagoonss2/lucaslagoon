@@ -77,12 +77,12 @@ Hello There! I'm **Lucas Rodrigues**, a Cybersecurity student. I am dedicated to
 
 </div>
 <div align="center">
+  <div align="center">
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
-    <a href="https://github.com/lucas-rodrigues1100/Relatorio-SOC-LinkedIn">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=lucas-rodrigues1100&repo=Relatorio-SOC-LinkedIn&theme=tokyonight&border_radius=10" /></a>
-    <a href="https://github.com/lucas-rodrigues1100/Homelab-Security">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=lucas-rodrigues1100&repo=Homelab-Security&theme=tokyonight&border_radius=10" /></a>
+    <a href="https://github.com/Lucaslagoonss2/DDoS-Mitigation-Lab">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucaslagoonss2&repo=DDoS-Mitigation-Lab&theme=tokyonight&border_radius=10&cache_seconds=1800" />
+    </a>
   </p>
 </div>
 
