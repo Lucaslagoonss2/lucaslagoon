@@ -1,36 +1,52 @@
+<!-- TOPO: EVA-01 E TERMINAL DINÂMICO -->
 <div align="center">
-  <img width="100%" src="https://i.imgur.com/K9dvqd3.gif" alt="Cybersecurity Banner"/>
+  <!-- GIF do Eva (Aumentado para destaque) -->
+  <img src="https://i.imgur.com/1zb7dyE.gif" width="450" alt="Eva-01 Pixel Art">
+  
+  <br>
+
+  <!-- Typing SVG: Nome e Especialidades com efeito retro -->
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=LUCAS+R.+LAGOON;SOC+ANALYST+STUDENT;NETWORK+SECURITY;MIKROTIK+%26+CISCO;BLUE+TEAM+OPERATOR" alt="Typing SVG" />
+
+  <br>
+
+  <!-- Contador de Visitas -->
+ <img src="https://komarev.com/ghpvc/?username=lucas-rodrigues1100&label=PROFILE%20VIEWS&color=8000FF&style=for-the-badge&logo=github&logoColor=00FF00" />
 </div>
 
+<!-- SEÇÃO DE MÉTRICAS UNIFICADA -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucas-rodrigues1100&label=Profile%20Views&color=557C94&style=for-the-badge&logo=github&logoColor=white"/>
+  <!-- Título com Typing SVG (Link simplificado para não quebrar) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=SYSTEM+METRICS;SECURITY+STATS" alt="System Metrics" />
+  
+  <br>
 
-  <img alt="Total Stars" src="https://img.shields.io/github/stars/lucas-rodrigues1100?style=for-the-badge&label=Stars&color=bf616a&logo=github" />
-
-  <img alt="Followers" src="https://img.shields.io/github/followers/lucas-rodrigues1100?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+  <!-- Gráfico de Status Principal -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucaslagoonss2&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
 </div>
 
 <br>
 
 
-
-<!-- ABOUT ME -->
-<h3 align="center">👤 About me</h3>
+<!-- ABOUT ME: TERMINAL STYLE -->
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00FF00&width=400&lines=USER_PROFILE;ABOUT+ME" alt="About Me" />
+</div>
 
 <p align="left">
-  <img src="https://i.imgur.com/NXo0ceh.png" align="right" width="420" alt="Lain Hacking Clean"/>
-  Hello There! I'm <strong>Lucas Rodrigues</strong>, a <strong>Cybersecurity student</strong> dedicated to cyber defense, infrastructure, and automation.
-  <br><br>
-  Currently, I'm working on security projects and simulating real-world scenarios in my <strong>Homelab</strong> to enhance my <strong>Blue Team</strong> expertise.
+  <img src="https://i.imgur.com/NXo0ceh.png" align="right" width="400" alt="Lain Hacking Clean"/>
+  <code><b>> IDENTITY:</b></code> Lucas Rodrigues, Cybersecurity Student <br>
+  <code><b>> MISSION:</b></code> Cyber defense, infrastructure, and automation <br>
+  <code><b>> CURRENT_TASK:</b></code> Enhancing Blue Team expertise via Homelab
 </p>
 
-<ul>
-  <li>🎓 Studying <strong>Cybersecurity at UNIASSELVI</strong> (2025-2027)</li>
-  <li>🚀 Focused on <strong>traffic monitoring</strong> and <strong>vulnerability analysis</strong></li>
-  <li>🛠️ Hands-on experience with <strong>MikroTik</strong> and <strong>ISP networks</strong></li>
-  <li>🧪 Maintaining a <strong>Homelab</strong> for attack & defense simulations</li>
-  <li>💬 Proficient in <strong>Python</strong> for security scripting</li>
-</ul>
+<p align="left">
+  <code><b>> EDUCATION:</b></code> Cybersecurity @ UNIASSELVI (2025-2027) <br>
+  <code><b>> SPECIALIZATION:</b></code> Traffic Monitoring & Vulnerability Analysis <br>
+  <code><b>> STACK_INFO:</b></code> MikroTik & ISP Network Specialist <br>
+  <code><b>> LAB_STATUS:</b></code> Active Homelab for attack/defense simulations <br>
+  <code><b>> SCRIPTING:</b></code> Proficient in Python for security
+</p>
 
 <br clear="right">
 
@@ -50,42 +66,43 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 </div>
 
-<!-- LANGUAGES -->
-<h3 align="center">🧰 Languages & Tools I Work With</h3>
-
+<!-- TECH STACK & SKILLS -->
+<h3 align="center">🧰 Tech Stack & Skills</h3>
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=kali,debian,linux,bash,py,github,vscode,ubuntu,git,html,css,mysql" />
-
+  <img src="https://skillicons.dev/icons?i=kali,debian,ubuntu,linux,bash,py,mysql,github,vscode,git&perline=5" />
 </div>
+
+<br>
+
+<!-- SECURITY & NETWORKING -->
+<h3 align="center">🛡️ Security & Networking</h3>
 <div align="center">
-  <div align="center">
+  <!-- Primeira Linha: Infra e Escaneamento -->
+  <img src="https://img.shields.io/badge/MikroTik-000000?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-00BFFF?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <br>
+  <!-- Segunda Linha: Atuação e Defesa -->
+  <img src="https://img.shields.io/badge/SOC_Analyst-Blue_Team-00599C?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/DDoS_Mitigation-Defensive-000000?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</div>
+
+
+<br>
+
+<!-- INTERESTING REPOSITORIES -->
+<div align="center">
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
     <a href="https://github.com/Lucaslagoonss2/DDoS-Mitigation-Lab">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucaslagoonss2&repo=DDoS-Mitigation-Lab&theme=tokyonight&border_radius=10&cache_seconds=1800" />
+      <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucaslagoonss2&repo=DDoS-Mitigation-Lab&theme=tokyonight&border_radius=10" />
     </a>
   </p>
 </div>
 
 <br>
-
-<h3 align="center">💻 Security Tech Stack</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/MikroTik-000000?style=for-the-badge&logo=mikrotik&logoColor=white" />
-  <img src="https://img.shields.io/badge/OSINT-Investigative-557C94?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOC-Blue_Team-blue?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-</div>
-
-<br>
-
-<h3 align="center">📊 GitHub Status</h3>
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucaslagoon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslagoon&layout=compact&theme=tokyonight&border_radius=10"/>
-</div>
 
 <br>
 
