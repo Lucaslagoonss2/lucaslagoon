@@ -50,7 +50,11 @@
 
 <br clear="right">
 
-<h3 align="left">📬 Contact</h3>
+<!-- CONTACT: ORIGINAL COLORS & BRIGHT TITLE -->
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00FF00&width=400&lines=CONTACT" alt="Contact" />
+</div>
+
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucasrodriguesr343@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -62,54 +66,50 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
-<div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
-</div>
 
-<!-- TECH STACK & SKILLS -->
-<h3 align="center">🧰 Tech Stack & Skills</h3>
+
+
+<br>
+
+<!-- SECTION: TECH STACK & SKILLS (PURPLE) -->
 <div align="center">
+  <img src="https://i.imgur.com/nlXIltR.gif" width="320" />
+  <br>
+  <!-- Texto estático: repeat=false e duration=1 matam o movimento e o pisca-pisca -->
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&color=8000FF&center=true&vCenter=true&width=500&lines=Tech_Stack_%26_Skills&repeat=false" />
+  <br>
   <img src="https://skillicons.dev/icons?i=kali,debian,ubuntu,linux,bash,py,mysql,github,vscode,git&perline=5" />
 </div>
 
 <br>
 
-<!-- SECURITY & NETWORKING -->
-<h3 align="center">🛡️ Security & Networking</h3>
+<!-- SECTION: SECURITY & NETWORKING (GREEN) -->
 <div align="center">
-  <!-- Primeira Linha: Infra e Escaneamento -->
-  <img src="https://img.shields.io/badge/MikroTik-000000?style=for-the-badge&logo=mikrotik&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-00BFFF?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1&color=00FF00&center=true&vCenter=true&width=550&lines=Security_%26_Networking&repeat=false" />
   <br>
-  <!-- Segunda Linha: Atuação e Defesa -->
-  <img src="https://img.shields.io/badge/SOC_Analyst-Blue_Team-00599C?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/DDoS_Mitigation-Defensive-000000?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/MIKROTIK-000000?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/NMAP-049FD9?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/CISCO-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/SOC_ANALYST-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BLUE_TEAM-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DDOS_MITIGATION-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DEFENSIVE-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TRYHACKME-1F2937?style=for-the-badge&logo=tryhackme" />
 </div>
-
 
 <br>
 
-<!-- INTERESTING REPOSITORIES -->
+<!-- SECTION: PORTFOLIO -->
 <div align="center">
-  <h3>⭐️ Interesting Repositories</h3>
-  <p align="center">
-    <a href="https://github.com/Lucaslagoonss2/DDoS-Mitigation-Lab">
-      <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucaslagoonss2&repo=DDoS-Mitigation-Lab&theme=tokyonight&border_radius=10" />
-    </a>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&color=00FF00&center=true&vCenter=true&width=550&lines=SOC_REPORTS_%26_LABS&repeat=false" />
+  <br>
+  <p><code>CENTRAL_LOGS: PROJECTS, REPORTS AND TECHNICAL DOCUMENTATION</code></p>
+  
+  <!-- Link direto para o card do repositório -->
+  <a href="https://github.com/Lucaslagoonss2/DDoS-Mitigation-Lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucaslagoonss2&repo=DDoS-Mitigation-Lab&theme=tokyonight&show_owner=true" alt="DDoS Mitigation Lab" />
+  </a>
 </div>
 
-<br>
-
-<br>
-
-<div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
-  <p align="center">
-    🛡️ Optimized for SOC Analysis & Cybersecurity 🛡️
-  </p>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=557C94&bg_color=0D1117"/>
-</div>
