@@ -110,7 +110,7 @@
 
   <p align="center">
     <a href="https://github.com/Lucaslagoonss2/DDoS-Mitigation-Lab">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Lucaslagoonss2&repo=DDoS-Mitigation-Lab&theme=tokyonight&border_radius=10&show_owner=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Lucaslagoonss2&repo=DDoS-Mitigation-Lab&theme=tokyonight&border_radius=10&show_owner=true&cache_seconds=1" />
     </a>
   </p>
 </div>
