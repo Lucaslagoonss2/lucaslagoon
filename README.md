@@ -101,15 +101,25 @@
 
 <br>
 
-<!-- SECTION: PORTFOLIO -->
+<!-- SECTION: CORE REPOSITORIES (ESTILO DASHBOARD SOC) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&color=00FF00&center=true&vCenter=true&width=550&lines=SOC_REPORTS_%26_LABS&repeat=false" />
-  <br>
-  <p><code>CENTRAL_LOGS: PROJECTS, REPORTS AND TECHNICAL DOCUMENTATION</code></p>
+  <!-- Título Estilo Terminal -->
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1500&color=00FF00&center=true&vCenter=true&width=500&lines=CORE_REPOSITORIES;ACCESS_GRANTED" alt="Lab Header" />
   
-  <!-- Link direto para o card do repositório -->
-  <a href="https://github.com/Lucaslagoonss2/DDoS-Mitigation-Lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucaslagoonss2&repo=DDoS-Mitigation-Lab&theme=tokyonight&show_owner=true" alt="DDoS Mitigation Lab" />
-  </a>
-</div>
+  <br><br>
 
+  <!-- Container para os Cards de Repositórios -->
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    
+    <!-- Card 1: DDoS Mitigation Lab -->
+    <a href="https://github.com/Lucaslagoonss2/DDoS-Mitigation-Lab">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucaslagoonss2&repo=DDoS-Mitigation-Lab&theme=tokyonight&border_radius=10&show_owner=true" alt="DDoS Mitigation Lab" />
+    </a>
+
+    <!-- Espaço para Card 2 (Quando você criar outro Lab de SOC/Redes) -->
+    <!-- <a href="LINK_DO_SEU_PROXIMO_REPOSITORIO">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucaslagoonss2&repo=NOME_DO_REPO&theme=tokyonight&border_radius=10" />
+    </a> -->
+
+  </div>
+</div>
